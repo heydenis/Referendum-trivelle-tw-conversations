@@ -5,7 +5,7 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "@iosonodenis"
+    "text": "Denis Rasia"
   },
   "text": {
     "more": "todo",
@@ -13,7 +13,7 @@
     "title": "#trivelle - visualized"
   },
   "legend": {
-    "edgeLabel": "Menzione/RT",
+    "edgeLabel": "Mention/RT",
     "colorLabel": "Cluster",
     "nodeLabel": "@username"
   },
