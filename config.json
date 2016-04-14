@@ -3,14 +3,14 @@
   "version": "1.0",
   "data": "data.json",
   "logo": {
-    "file": "",
-    "link": "",
-    "text": "Denis Rasia"
+    "file": "https://cdn-images-1.medium.com/fit/c/60/60/1*bzI3PIbzJuVmIzpxiQWFZQ.png",
+    "link": "https://medium.com/numbers-are-stories/",
+    "text": "@iosonodenis"
   },
   "text": {
     "more": "todo",
-    "intro": "Visualizzazione della conversazione sul referendum abrogativo del 17 aprile.\nSource: Twitter\nHashtag di ricerca: #trivelle\nRange di ricerca: dal 3 al 13 aprile.\nTweet rilevati: 11.000 circa.",
-    "title": "#trivelle - visualized"
+    "intro": "Visualizzazione della conversazione sul referendum abrogativo del 17 aprile.\nSource: Twitter\nHashtag di ricerca: #trivelle\nRange di ricerca: dal 3 al 13 aprile.\nTweet rilevati: > 11.000.",
+    "title": "#trivelle su Twitter, visualizzato"
   },
   "legend": {
     "edgeLabel": "Mention/RT",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": "Classe di modularit&agrave;",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
